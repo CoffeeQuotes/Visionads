@@ -24,7 +24,7 @@ for user login: **Username: shishir** & **Password: secret**
 ## Screenshots
 <img src="adminpanel.png" width="60%" height="60%"/>
 
-<img src="adminpanel.png" width="60%" height="60%"/>
+<img src="adminpanel2.png" width="60%" height="60%"/>
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
